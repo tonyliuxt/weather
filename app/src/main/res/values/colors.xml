@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="mediacontroller_bg_pressed">#ff53c1bd</color>
+    <color name="mediacontroller_bg">#99000000</color>
+	<color name="contacts_emtpy_text_color">#ff000000</color>
+	<color name="contact_number_color">#ff616161</color>
+	<color name="conversation_name_selected_color">#ff000000</color>
+	<color name="conversation_name_color">#ff000000</color>
+	<color name="top_bar_text_color">#ffffffff</color>
+	<color name="search_hint_color">#ffcccccc</color>
+	
+	<color name="white">#ffffffff</color>
+	<color name="blue">#2f6baf</color>
+	<color name="ltgray">#CCCCCC</color>
+	<color name="black">#000000</color>
+	<color name="gray">#808080</color>
+	<color name="green">#00ff00</color>
+	<color name="purple">#f22020</color>
+	<color name="orange">#ffff00</color>
+	<color name="darkgray">#474641</color>
+	<color name="bgcolor">#B2FEDC</color>
+	<color name="textcolor">#000000</color>
+	<color name="listcolor">#0E85DF</color>
+	<color name="progress_start">#FA8C00</color>
+	<color name="progress_end">#FA8C00</color>
+	
+		
+</resources>
